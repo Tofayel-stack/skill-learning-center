@@ -1,0 +1,52 @@
+[
+ 
+   {
+     "id": 1,
+     "title": "R Programming",
+     "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg",
+     "duration": 8,
+     "students": 110,
+     "price": 1000
+   },
+   {
+    "id": 2,
+    "title": "C Programming",
+    "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png",
+    "duration": 10,
+    "students": 88,
+    "price": 1200
+  },
+   {
+     "id": 3,
+     "title": "Database ",
+     "url": "https://cdn.worldvectorlogo.com/logos/amazon-database.svg",
+     "duration": 3,
+     "students": 87,
+     "price": 1000
+   },
+   {
+     "id": 4,
+     "title": "Learn java",
+     "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+     "duration": 48,
+     "students": 15964,
+     "price": 8000
+   },
+ 
+   {
+     "id": 5,
+     "title": "HTML5",
+     "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
+     "duration": 92,
+     "students": 3200,
+     "price": 2000
+   },
+   {
+    "id": 6,
+    "title": "Data Structures and Algorithm",
+    "url": "https://hackr.io/tutorials/learn-data-structures-algorithms/logo/logo-data-structures-algorithms?ver=1587721467",
+    "duration": 24,
+    "students": 5457,
+    "price": 4000
+  }
+ ]
